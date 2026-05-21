@@ -5,5 +5,5 @@ Once, a meteor fell into a boys backyard. He went to go check and learned the me
 
 This is just a simple clicker game, have fun!
 
-Demo is the mp4 file.
+Demo: https://www.youtube.com/watch?v=Cbz5AkRItrA
 
